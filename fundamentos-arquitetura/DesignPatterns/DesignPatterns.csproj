@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="02 - Structural\2.2 - Facade\Facade\" />
     <Folder Include="02 - Structural\2.3 - Composite\" />
     <Folder Include="03 - Behavioral\3.3 - Observable\" />
     <Folder Include="03 - Behavioral\3.2 - Strategy\" />
