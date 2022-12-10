@@ -1,0 +1,15 @@
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\bin\Debug\net6.0\DesignPatterns.exe
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\bin\Debug\net6.0\DesignPatterns.deps.json
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\bin\Debug\net6.0\DesignPatterns.runtimeconfig.json
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\bin\Debug\net6.0\DesignPatterns.dll
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\bin\Debug\net6.0\DesignPatterns.pdb
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.AssemblyReference.cache
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\obj\Debug\net6.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfoInputs.cache
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfo.cs
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\obj\Debug\net6.0\DesignPatterns.dll
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\obj\Debug\net6.0\refint\DesignPatterns.dll
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\obj\Debug\net6.0\DesignPatterns.pdb
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\obj\Debug\net6.0\DesignPatterns.genruntimeconfig.cache
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\DesignPatterns\obj\Debug\net6.0\ref\DesignPatterns.dll

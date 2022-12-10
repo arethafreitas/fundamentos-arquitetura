@@ -1,0 +1,15 @@
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\bin\Debug\net6.0\FundamentosArquitetura.exe
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\bin\Debug\net6.0\FundamentosArquitetura.deps.json
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\bin\Debug\net6.0\FundamentosArquitetura.runtimeconfig.json
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\bin\Debug\net6.0\FundamentosArquitetura.dll
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\bin\Debug\net6.0\FundamentosArquitetura.pdb
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\obj\Debug\net6.0\FundamentosArquitetura.csproj.AssemblyReference.cache
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\obj\Debug\net6.0\FundamentosArquitetura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\obj\Debug\net6.0\FundamentosArquitetura.AssemblyInfoInputs.cache
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\obj\Debug\net6.0\FundamentosArquitetura.AssemblyInfo.cs
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\obj\Debug\net6.0\FundamentosArquitetura.csproj.CoreCompileInputs.cache
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\obj\Debug\net6.0\FundamentosArquitetura.dll
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\obj\Debug\net6.0\refint\FundamentosArquitetura.dll
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\obj\Debug\net6.0\FundamentosArquitetura.pdb
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\obj\Debug\net6.0\FundamentosArquitetura.genruntimeconfig.cache
+D:\Users\Aretha\Desktop\estudos-arquitetura\fundamentos-arquitetura\FundamentosArquitetura\obj\Debug\net6.0\ref\FundamentosArquitetura.dll

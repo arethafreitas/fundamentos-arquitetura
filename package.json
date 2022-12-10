@@ -1,0 +1,11 @@
+{
+  "name": "estudos-arquitetura",
+  "version": "1.0.0",
+  "description": "Estudos com exemplos sobquitetura de Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
